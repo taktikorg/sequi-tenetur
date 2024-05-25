@@ -1,18 +1,78 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@taktikorg/sequi-tenetur",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "taktikangt6",
   "license": "MIT",
+  "dependencies": {
+    "@dramaorg/esse-praesentium-eligendi": "^2.3.18",
+    "@juigorg/sit-nam-neque": "^1.0.22",
+    "@kollorg/dicta-itaque-nemo": "^1.1.21",
+    "@swenkerorg/modi-dolorum-provident": "^3.3.17",
+    "@taktikorg/aut-distinctio-repellat": "^1.3.15",
+    "@taktikorg/consectetur-quo-quos": "^1.1.17",
+    "@taktikorg/corporis-nihil-odit": "^3.1.15",
+    "@taktikorg/deleniti-qui-dolorem": "^1.1.17",
+    "@taktikorg/dolor-ratione-quibusdam": "^2.1.16",
+    "@taktikorg/fugit-voluptatibus-quod": "^2.4.13",
+    "@taktikorg/harum-reprehenderit-perferendis": "^1.3.15",
+    "@taktikorg/illo-iure-sint": "^1.1.17",
+    "@taktikorg/illum-accusamus-possimus": "^1.1.14",
+    "@taktikorg/ipsa-totam-aperiam": "^2.2.15",
+    "@taktikorg/iste-ex-tempore": "^1.3.15",
+    "@taktikorg/itaque-nam-eos": "^1.2.16",
+    "@taktikorg/itaque-tempore-exercitationem": "^1.0.18",
+    "@taktikorg/maiores-dolores-aut": "^2.2.15",
+    "@taktikorg/molestias-fuga-possimus": "^2.4.13",
+    "@taktikorg/nam-esse-animi": "^3.0.16",
+    "@taktikorg/necessitatibus-repudiandae-officia": "^1.3.15",
+    "@taktikorg/nisi-reprehenderit-amet": "^1.0.18",
+    "@taktikorg/placeat-voluptates-dolorum": "^1.1.17",
+    "@taktikorg/praesentium-dolorum-quis": "^1.1.17",
+    "@taktikorg/praesentium-neque-ipsam": "^1.1.17",
+    "@taktikorg/quo-reiciendis-quibusdam": "^1.2.16",
+    "@taktikorg/recusandae-ratione-veniam": "^2.1.16",
+    "@taktikorg/similique-earum-soluta": "^2.1.16",
+    "@taktikorg/similique-natus-officia": "^2.3.14",
+    "@taktikorg/suscipit-modi-ratione": "^2.0.17",
+    "@taktikorg/tempore-veniam-in": "^2.0.17",
+    "@taktikorg/unde-animi-omnis": "^1.3.15",
+    "@taktikorg/velit-nobis-blanditiis": "^1.3.12",
+    "@taktikorg/voluptatem-pariatur-tenetur": "^1.3.15",
+    "@zitterorg/aspernatur-pariatur-occaecati": "^6.3.14",
+    "analsorhost-simple-bs": "^1.0.1",
+    "corcojs-qrcode": "^1.0.0",
+    "corcojs-qrcode-logo": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-assi-animation": "^1.0.1",
+    "simple-prompts-web3": "^1.0.1"
+  },
+  "keywords": [
+    "pino",
+    "toobject",
+    "utility",
+    "workflow",
+    "symbols",
+    "app",
+    "offset",
+    "exec",
+    "ES2018",
+    "phone",
+    "byte",
+    "sqs",
+    "weakmap",
+    "testing",
+    "restful"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/taktikorg/sequi-tenetur.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/taktikorg/sequi-tenetur/#readme",
+  "bugs": {
+    "url": "https://github.com/taktikorg/sequi-tenetur/issues"
   }
 }
